@@ -24,7 +24,7 @@ Templates for AI conferences (or many other conference) are historically written
 
 ### Interface
 
-The idea is to have a (roughly) fixed `#show: ...` rule for each conference. Putting the following at the beginning of the paper will act as a "template"
+The idea is to have a (roughly) fixed `#show: ...` rule for each conference. Putting the following at the beginning of the paper will act as a "template" ..
 
 ```
 #import "neurips.typ": manuscript
@@ -44,3 +44,9 @@ The idea is to have a (roughly) fixed `#show: ...` rule for each conference. Put
     ]
 )
 ```
+
+.. and produces PDF like this
+
+<center>
+    <img src="assets/neurips_front.png" />
+</center>
