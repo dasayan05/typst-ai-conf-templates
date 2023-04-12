@@ -2,6 +2,7 @@
 
 
 <h3 align="center">🔨 Work in Progress 🔨</h3>
+<h4 align="center"> ✨ Contributions are welcome ✨ </h4>
 
 Templates for AI conferences (or many other conference) are historically written only in LaTeX, which is old and hard to use. [Typst](https://typst.app/) is a modern typesetting system with a much more familiar programming model. As the community grows, we may want to use Typst for writing papers in the conferences. Please note that **this is an individual effort to port the templates, but not "officially" supported by the conferences**. Also, this repo is still work in progress and might not yet match the exact specification (e.g. margin, styling) of the conference.
 
@@ -48,7 +49,9 @@ The idea is to have a (roughly) fixed `#show: ...` rule for each conference. Put
 )
 ```
 
-.. and produces PDF like this
+### Example Outputs
+
+- NeurIPS
 
 <center>
     <img src="assets/neurips_front.png" />
