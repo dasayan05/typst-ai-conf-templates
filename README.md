@@ -47,11 +47,18 @@ The idea is to have a (roughly) fixed `#show: ...` rule for each conference. Put
     title: [Formatting Instructions For NeurIPS 2023],
     authors: (
         [
-            *Anonymous Author(s)*\
+            *Author 1*\
+            Affiliation 1\
+            Address 1\
+            ...
+        ],
+        [
+            *Author 2*\
             Affiliation\
             Address\
-            `email`
+            ...
         ],
+        ...
     ),
     abstract: [
         The abstract paragraph should be indented $1/2$~inch (3~picas) ..
