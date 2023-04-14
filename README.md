@@ -19,7 +19,7 @@ Templates for AI conferences (or many other conference) are historically written
 - [X] NeurIPS
 - [ ] ICML
 - [ ] ICLR
-- [ ] CVPR
+- [X] CVPR
 - [ ] ICCV
 - [ ] ECCV
 - (more to come)
@@ -31,6 +31,9 @@ Templates for AI conferences (or many other conference) are historically written
 The idea is to have a (roughly) fixed `#show: ...` rule for each conference. Putting the following at the beginning of the paper will act as a "template" ..
 
 ```
+// Replace <conf> with the conference name
+// #import "<conf>.typ": manuscript
+
 #import "neurips.typ": manuscript
 
 #show: manuscript.with(
@@ -55,4 +58,10 @@ The idea is to have a (roughly) fixed `#show: ...` rule for each conference. Put
 
 <center>
     <img src="assets/neurips_front.png" />
+</center>
+
+- CVPR
+
+<center>
+    <img src="assets/cvpr_front.png" />
 </center>
