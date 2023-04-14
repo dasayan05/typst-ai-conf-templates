@@ -28,10 +28,13 @@
     ]\
     #align(center)[
         #set text(size: 11pt)
+        #let c = ()
+        #for value in range(authors.len()) {
+            c.push(1fr)
+        }
         #grid(
-            columns: (1fr, 1fr),
-            authors.at(0),
-            authors.at(1)
+            columns: c,
+            ..authors
         )
     ]\ \
     #columns(2, gutter: 0.3125in, [

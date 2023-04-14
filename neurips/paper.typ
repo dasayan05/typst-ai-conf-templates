@@ -3,11 +3,23 @@
     title: [Formatting Instructions For NeurIPS 2023],
     authors: (
         [
-            *Anonymous Author(s)*\
-            Affiliation\
-            Address\
-            `email`
+            *Author 1*\
+            Affiliation 1\
+            Address 1\
+            `a1@email1.com`
         ],
+        [
+            *Author 2*\
+            Affiliation 2\
+            Address 2\
+            `a2@email2.com`
+        ],
+        [
+            *Author 3*\
+            Affiliation 3\
+            Address 3\
+            `a3@email3.com`
+        ]
     ),
     abstract: [
         The abstract paragraph should be indented $1/2$~inch (3~picas) on both the left- and right-hand margins. Use 10~point type, with a vertical spacing (leading) of 11~points.  The word *Abstract* must be centered, bold, and in point size 12. Two line spaces precede the abstract. The abstract must be limited to one paragraph.

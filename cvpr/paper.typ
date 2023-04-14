@@ -13,6 +13,12 @@
             Institution2\
             First line of institution2 address\
             `secondauthor@i2.org`
+        ],
+        [
+            Third Author\
+            Institution3\
+            Institution3 address\
+            `thirdauthor@i3.org`
         ]
     ),
     abstract: [

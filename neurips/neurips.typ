@@ -58,9 +58,13 @@
     ]
     #v(20pt)
     #align(center)[
+        #let c = ()
+        #for i in range(authors.len()) {
+            c.push(1fr)
+        }
         #grid(
-            columns: (1fr),
-            authors.at(0)
+            columns: c,
+            ..authors
         )
     ]
     #v(20pt)
