@@ -7,8 +7,9 @@
 
 <center>
 <strong>Please note that Typst is in it's early stage and not yet as feature-rich as LaTeX, hence it may still take some time for these templates to be usable in practice.
-</strong>
-</center><br />
+</strong><br /><br />
+</center>
+
 
 Templates for AI conferences (or many other conference) are historically written only in LaTeX, which is old and hard to use. [Typst](https://typst.app/) is a modern typesetting system with a much more familiar programming model. As the community grows, we may want to use Typst for writing papers in the conferences. Please note that **this is an individual effort to port the templates, but not "officially" supported by the conferences**. Also, this repo is still work in progress and might not yet match the exact specification (e.g. margin, styling) of the conference.
 
