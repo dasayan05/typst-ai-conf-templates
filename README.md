@@ -77,5 +77,6 @@ The idea is to have a (roughly) fixed `#show: ...` rule for each conference. Put
 - CVPR
 
 <center>
+    <img src="assets/cvpr_front_anon.png" />
     <img src="assets/cvpr_front.png" />
 </center>
